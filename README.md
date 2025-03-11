@@ -1,4 +1,4 @@
-📌 Project Title:  "Stock Data Extraction and Visualization using Python"
+📌 Project Title:  Analyzing Historical Stock Revenue Data and Building a Dashboard
 
 📖 Overview: This project demonstrates how to extract, process, and visualize stock market data using Python. The assignment covers essential techniques for working with financial data, including data extraction, cleaning, and visualization.
 
